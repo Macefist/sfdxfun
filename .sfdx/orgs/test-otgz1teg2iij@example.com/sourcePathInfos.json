@@ -2,14 +2,14 @@
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540335392401,
             "changeTime": 1540335392401,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540335392401,
             "changeTime": 1540335392401,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1540336139283,
-            "changeTime": 1540336139283,
-            "contentHash": "dc5baf7877bc7953b80616001983f3a80eb64a65"
+            "modifiedTime": 1540338052022,
+            "changeTime": 1540338052022,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540335392402,
             "changeTime": 1540335392402,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540335421325,
             "changeTime": 1540335421325,
             "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,105 +75,170 @@
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
             "modifiedTime": 1540336139264,
             "changeTime": 1540336139264,
-            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17900,
             "modifiedTime": 1540336139281,
             "changeTime": 1540336139281,
-            "contentHash": "9e61511555594c6c5f9f4305b2be17fdb9dfea54"
+            "contentHash": "9e61511555594c6c5f9f4305b2be17fdb9dfea54",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1540336139284,
             "changeTime": 1540336139284,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540336139260,
             "changeTime": 1540336139260,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540336139258,
             "changeTime": 1540336139258,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540336139258,
             "changeTime": 1540336139258,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540336139277,
             "changeTime": 1540336139277,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540336139283,
             "changeTime": 1540336139283,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9682,
+            "modifiedTime": 1540338052030,
+            "changeTime": 1540338052030,
+            "contentHash": "38c24fc92dde410ce428b88b7cabc0205e44cc3a"
+        }
+    ],
+    [
+        "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9730,
+            "modifiedTime": 1540338052040,
+            "changeTime": 1540338052040,
+            "contentHash": "2adafd60908b019ff40c6850a6279b616401cde6"
+        }
+    ],
+    [
+        "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9682,
+            "modifiedTime": 1540338052051,
+            "changeTime": 1540338052051,
+            "contentHash": "4b54aa8832650406c726954034c3953c5ee28aca"
+        }
+    ],
+    [
+        "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9730,
+            "modifiedTime": 1540338052061,
+            "changeTime": 1540338052061,
+            "contentHash": "ce2e7c996e9153e468fda3174474cd476f1dfe18"
+        }
+    ],
+    [
+        "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kevin.shearer\\development\\salesforce\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540338052057,
+            "changeTime": 1540338052057,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
         }
     ]
 ]
